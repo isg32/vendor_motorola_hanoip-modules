@@ -1,0 +1,4 @@
+# Aliases extracted from modules themselves.
+alias platform:fpsensor-drivers fpsensor_spi_tee
+alias of:N*T*Cfpc,fpc1020 fpc1020_mmi
+alias of:N*T*Cfpc,fpc1020C* fpc1020_mmi
